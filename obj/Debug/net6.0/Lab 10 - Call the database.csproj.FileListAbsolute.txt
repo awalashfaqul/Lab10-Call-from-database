@@ -1,0 +1,59 @@
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Lab 10 - Call the database
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Lab 10 - Call the database.deps.json
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Lab 10 - Call the database.runtimeconfig.json
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Lab 10 - Call the database.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Lab 10 - Call the database.pdb
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Humanizer.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/Lab 10 - Call the database.csproj.AssemblyReference.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/Lab 10 - Call the database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/Lab 10 - Call the database.AssemblyInfoInputs.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/Lab 10 - Call the database.AssemblyInfo.cs
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/Lab 10 - Call the database.csproj.CoreCompileInputs.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/Lab 10 - Call the database.csproj.CopyComplete
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/Lab 10 - Call the database.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/refint/Lab 10 - Call the database.dll
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/Lab 10 - Call the database.pdb
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/Lab 10 - Call the database.genruntimeconfig.cache
+/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/Debug/net6.0/ref/Lab 10 - Call the database.dll

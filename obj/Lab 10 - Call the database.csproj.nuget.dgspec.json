@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab 10 - Call the database.csproj": {}
+    "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/Lab 10 - Call the database.csproj": {}
   },
   "projects": {
-    "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab 10 - Call the database.csproj": {
+    "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/Lab 10 - Call the database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab 10 - Call the database.csproj",
+        "projectUniqueName": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/Lab 10 - Call the database.csproj",
         "projectName": "Lab 10 - Call the database",
-        "projectPath": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab 10 - Call the database.csproj",
+        "projectPath": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/Lab 10 - Call the database.csproj",
         "packagesPath": "/Users/ashfaqul/.nuget/packages/",
-        "outputPath": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/obj/",
+        "outputPath": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 10 - Call the database - SQL & ORM/Lab10-Call-from-database/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ashfaqul/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
