@@ -16,6 +16,6 @@ Task is to download the northwind database and retrieve data from it using both 
 **SQL : Management Studio (SSMS) (Query file)**
 I have also written a file with queries in SSMS for the following functions:
 
-    - [ ] To get all products with their name, price and category name. Sort by category name and then product name
-    - [ ] To get all customers and number of orders they made. Sort descending by number of orders.
-    - [ ] Retrieve all employees together with the territory they are in charge of (EmployeeTerritories and Territories tables)
+- [ ] To get all products with their name, price and category name. Sort by category name and then product name
+- [ ] To get all customers and number of orders they made. Sort descending by number of orders.
+- [ ] Retrieve all employees together with the territory they are in charge of (EmployeeTerritories and Territories tables)
