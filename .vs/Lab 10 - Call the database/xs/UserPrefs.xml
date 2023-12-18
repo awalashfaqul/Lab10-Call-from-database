@@ -6,9 +6,14 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Functions/addaCustomer.cs">
     <Files>
-      <File FileName="Program.cs" Line="14" Column="1" />
+      <File FileName="startingApplication.cs" Line="20" Column="42" />
+      <File FileName="Program.cs" Line="17" Column="1" />
+      <File FileName="Functions/addaCustomer.cs" Line="1" Column="1" />
+      <File FileName="Functions/customersDetails.cs" Line="1" Column="1" />
+      <File FileName="Functions/customersList.cs" Line="31" Column="96" />
+      <File FileName="Models/Customer.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +22,10 @@
             <Node name="Lab 10 - Call the database" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
               </Node>
+              <Node name="Functions" expanded="True" />
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
